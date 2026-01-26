@@ -24,5 +24,5 @@ This repository highlights selected projects and examples of my work in:
 - User-friendly procedures
 
 ## Links
-- LinkedIn: https://www.linkedin.com/in/your-profile
+- LinkedIn: https://www.linkedin.com/in/hunterryskoski
 - Website: https://www.hunterryskoski.com
