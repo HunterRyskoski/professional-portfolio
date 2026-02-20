@@ -2,8 +2,7 @@
 
 Official website: https://www.hunterryskoski.com
 
-IT support and analytics professional with hands-on experience in service desk operations, Power BI reporting, endpoint/device management, and process improvement.  
-This repository highlights selected projects and examples of my work focused on improving visibility, reliability, and efficiency in IT environments.
+Hunter Ryskoski is a System Administrator and IT professional specializing in Microsoft 365, Intune, endpoint management, and Power BI reporting. This repository highlights selected projects and examples of work focused on improving visibility, reliability, and operational efficiency within enterprise IT environments.
 
 
 This repository highlights selected projects and examples of my work in:
