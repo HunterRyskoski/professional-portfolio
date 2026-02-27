@@ -28,3 +28,10 @@ Structured technical runbooks and scalable documentation frameworks for enterpri
 
 LinkedIn: https://www.linkedin.com/in/hunterryskoski  
 Website: https://www.hunterryskoski.com
+
+## Related Article
+
+A detailed breakdown of this dashboard framework is available on Medium:
+
+Designing a Data-Driven IT Performance Dashboard as a Systems Administrator  
+https://medium.com/@hunterryskoski/designing-a-data-driven-it-performance-dashboard-as-a-systems-administrator-ffcc067197f4
